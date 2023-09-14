@@ -11,7 +11,7 @@
 ## Installation
         - No installation necessary, just open in browser.
 ## Usage
-        - This application is used and ran in the browser.
+        - This application is used and ran in the browser. https://main--cool-smakager-0ac2b6.netlify.app/
 ## Screenshot
 
 ## Credits
