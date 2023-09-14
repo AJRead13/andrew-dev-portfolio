@@ -8,8 +8,8 @@ main {
   --secondary: #31343D;
   --tertiary: #b12704;
   --light: #ffffff;
-  --dark: #414857;
-  --darker: #1b2129;
+  --dark: #34363a;
+  --darker: #1d1f22;
   --alpha: rgba(255,255,255,.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
@@ -180,8 +180,8 @@ header img {
   top: 0;
   left: 0;
   height: auto;
-  filter: sepia(1) opacity(60%);
-  opacity: 0.5;
+  /* filter: sepia(1) opacity(60%); */
+  opacity: 0.75;
 }
 
 nav {
@@ -332,6 +332,11 @@ textarea {
     z-index: 900;
     opacity: 0;
     transition: all .5s ease-in-out;
+}
+
+#profilePic {
+  max-height: 250px;
+  max-width: auto ;
 }
 
 .project-text:hover {

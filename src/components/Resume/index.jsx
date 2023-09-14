@@ -3,7 +3,7 @@ function Resume() {
     <section className="my-5">
       <div className="my-2">
       <p>
-        Download my <a href="https://www.linkedin.com/">resume</a>
+        Download my <a href="https://drive.google.com/file/d/1uGYFwSjYIk7gQhUQM5Lqn8U5Xgl0oC8r/view?usp=drive_link">Resume</a>
         </p>
         <h3>Front-end Proficiencies</h3>
         <ul className="skills">
@@ -14,6 +14,8 @@ function Resume() {
           <li>responsive design</li>
           <li>React</li>
           <li>Bootstrap</li>
+          <li>Vue.js</li>
+          <li>Materilize</li>
         </ul>
         <h3>Back-end Proficiencies</h3>
         <ul className="skills">
@@ -24,6 +26,8 @@ function Resume() {
           <li>MongoDB, Mongoose</li>
           <li>REST</li>
           <li>GraphQL</li>
+          <li>Python</li>
+          <li>Pandas</li>
         </ul>
       </div>
     </section>

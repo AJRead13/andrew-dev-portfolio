@@ -1,5 +1,5 @@
-// export { default as calculator } from './projects/calculator.jpg';
-// export { default as ledWall } from './projects/ledWall.jpg';
-// export { default as pastelPuzzels } from './projects/pastelPuzzels.jpg';
-// export { default as runBuddy } from './projects/runBuddy.jpg';
-// export { default as surfReport } from './projects/surfReport.jpg';
+// export { default as marvel } from './projects/marvel.png';
+// export { default as ttrpg } from './projects/ttrpg.png';
+// export { default as dnd } from './projects/dnd.png';
+// export { default as jate } from './projects/jate.png';
+// export { default as leaflet } from './projects/leaflet.png';

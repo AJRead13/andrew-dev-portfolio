@@ -18,16 +18,16 @@ function Portfolio() {
       repo: "https://github.com"
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
+      name: 'JATE',
+      description: 'PWA/Webpack',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/AJRead13/Text_Editor_Xtreme"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'Marvel Movie and Comics',
+      description: 'Javascript/CSS/APIs',
+      link: "https://ajread13.github.io/Movie-Hype-Generator/",
+      repo: "https://github.com/AJRead13/Movie-Hype-Generator"
     },
     {
       name: 'calculator',
