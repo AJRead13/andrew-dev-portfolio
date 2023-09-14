@@ -9,7 +9,7 @@ function Portfolio() {
       name: 'TTRPG-Prompt Generator',
       description: 'React App with AI',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/AJRead13/ttrpg-prompts"
     },
     {
       name: 'Dungeons.Notes.Dragons',
