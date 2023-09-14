@@ -11,7 +11,7 @@ function About() {
           Hello there. - General Kenobi
         </p>
         <p>
-          I am a full stack developer leveraging some of the newest technologies to create responsive and simple web applications.
+          I am a full stack web developer leveraging some of the newest technologies to create responsive and simple web applications.
         </p>
       </div>
     </section>
