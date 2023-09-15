@@ -1,5 +1,5 @@
-// export { default as marvel } from './projects/marvel.png';
-// export { default as ttrpg } from './projects/ttrpg.png';
-// export { default as dnd } from './projects/dnd.png';
-// export { default as jate } from './projects/jate.jpg';
-// export { default as leaflet } from './projects/leaflet.png';
+export { default as moviesToComics } from './projects/marvel.png';
+// export { default as ai-ttrpg-generator } from './projects/ttrpg.png';
+export { default as dungeonsnotes } from './projects/dnd.png';
+export { default as jate } from './projects/jate.jpg';
+export { default as readMe } from './projects/readme.png';

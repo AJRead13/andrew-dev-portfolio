@@ -16,6 +16,10 @@ function Resume() {
           <li>Bootstrap</li>
           <li>Vue.js</li>
           <li>Materilize</li>
+          <li>Bulma</li>
+          <li>Material UI</li>
+          <li>Angular</li>
+          <li>Leaflet</li>
         </ul>
         <h3>Back-end Proficiencies</h3>
         <ul className="skills">
@@ -28,6 +32,11 @@ function Resume() {
           <li>GraphQL</li>
           <li>Python</li>
           <li>Pandas</li>
+          <li>Jest</li>
+          <li>MERN</li>
+          <li>PHP</li>
+          <li>AWS</li>
+          <li>Azure</li>
         </ul>
       </div>
     </section>
