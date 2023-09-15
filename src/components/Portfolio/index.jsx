@@ -6,7 +6,7 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'AI-ttrpg-generator',
+      name: 'aiTTRPG',
       description: 'React App with AI',
       link: "https://github.com",
       repo: "https://github.com/AJRead13/ttrpg-prompts"
