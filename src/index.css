@@ -339,6 +339,11 @@ textarea {
   max-width: auto ;
 }
 
+#aboutMe {
+  display: flex;
+  flex-direction: row;
+}
+
 .project-text:hover {
   background-color: var(--alpha);
   opacity: 1;

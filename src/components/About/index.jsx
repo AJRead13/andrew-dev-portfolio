@@ -2,13 +2,13 @@ import profilepic from '../../assets/large/portraits/ai_portrait.jpg'
 
 function About() {
   return (
-    <section className="my-5">
+    <section id="aboutMe" className="my-5">
       <div className="my-2">
         <div className="profile-img my-5">
           <img id="profilePic" src={profilepic} alt='ai-profile-image'></img>
         </div>
         <p>
-          Hello there. - General Kenobi
+          "Hello there." - General Kenobi
         </p>
         <p>
           Greetings Adventurer, I'm Andrew Read, a passionate Full Stack Web Developer certified through the University of Pennsylvania. With a background as a veteran, I bring discipline, dedication, and a commitment to excellence to every project. Since completing my certification, I've been on a journey through the realms of front-end and back-end development, crafting robust and elegant web solutions. Beyond coding, I've stepped into the role of an educator, guiding aspiring developers through the same Full Stack Web Development Boot Camp that kick-started my career.</p>
